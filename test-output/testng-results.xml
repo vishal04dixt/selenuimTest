@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9889" started-at="2020-05-17T13:17:02 IST" finished-at="2020-05-17T13:17:12 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9889" started-at="2020-05-17T13:17:02 IST" finished-at="2020-05-17T13:17:12 IST">
+      <class name="Example.ExampleTest.DispalyTest">
+        <test-method status="PASS" signature="initilize()[pri:0, instance:Example.ExampleTest.DispalyTest@5a1c0542]" name="initilize" is-config="true" duration-ms="9626" started-at="2020-05-17T13:17:02 IST" finished-at="2020-05-17T13:17:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initilize -->
+        <test-method status="PASS" signature="elementDispaly()[pri:0, instance:Example.ExampleTest.DispalyTest@5a1c0542]" name="elementDispaly" duration-ms="55" started-at="2020-05-17T13:17:12 IST" finished-at="2020-05-17T13:17:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementDispaly -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:Example.ExampleTest.DispalyTest@5a1c0542]" name="quit" is-config="true" duration-ms="156" started-at="2020-05-17T13:17:12 IST" finished-at="2020-05-17T13:17:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- Example.ExampleTest.DispalyTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
